@@ -1,22 +1,22 @@
 {
   "name": "UbuToolBox",
-  "version": "0.5.10",
+  "version": "0.5.11",
   "architecture": "all",
   "artifacts": {
-    "ubutoolbox_0.5.10_all.deb": {
-      "sha256": "b2cd1b8b81ec272d062c2d70625b0f8e5a59a4c0763f167ae0819511c29ab555",
-      "size": 33258
+    "ubutoolbox_0.5.11_all.deb": {
+      "sha256": "629c5af6d2796ad00a51562bcd3bd4172b53e8d9d3ba71c881cf224ecf420c6d",
+      "size": 33788
     },
-    "UbuToolBox-0.5.10.tar.gz": {
-      "sha256": "a6f364e7bef04be614dbc0284c2b5363ca9728b8c1d917b539d255041d6f724a",
-      "size": 37187
+    "UbuToolBox-0.5.11.tar.gz": {
+      "sha256": "83e9d1992384c25a718ecf628f3983164fbf412a9fad2b970b6c93c834b9f279",
+      "size": 37731
     },
     "install.sh": {
       "sha256": "f614c6c213f1472d5070e83ac56ac32d00beae15073acff7111c2cc934d833d2",
       "size": 712
     },
     "INSTALL.txt": {
-      "sha256": "a55181683095c78cbbc6ccb5f585dbea0a5445aef1347acf9fdf37e989627b8b",
+      "sha256": "89d3c17eea21b28ebee9c8b13377cb1ae7f9999124ceb6869f6c3c31962fa749",
       "size": 5557
     }
   }
